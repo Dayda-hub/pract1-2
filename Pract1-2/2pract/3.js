@@ -1,0 +1,1 @@
+console.log("Длина массива array2: " + array2.length);
